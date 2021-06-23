@@ -132,7 +132,7 @@ vagrant ssh host1
 
 > También puede iniciar sesión directamente en la consola de la VM desde **Oracle VM VirtualBox Manager**, utilizando la cuenta de usuario `vagrant` con la contraseña `vagrant`.
    
-> También puede conectarse e iniciar sesión con cualquier cliente SSH (OpenSSH, PuTTY, mRemoteNG, MobaXterm, etc.), utilizando las llaves privadas del usuario `vagrant` ubicadas en `/d/Automation_2021/ansiblelab/.vagrant/machines/host1/virtualbox/private_key` y `/d/Automation_2021/ansiblelab/.vagrant/machines/tower/virtualbox/private_key`, con la dirección IP `127.0.0.1`, puerto TCP `2222` o `2200`, según se muestre en los mensajes mostrados durante el arranque.
+> También puede conectarse e iniciar sesión con cualquier cliente SSH (OpenSSH, PuTTY, mRemoteNG, MobaXterm, etc.), utilizando las llaves privadas del usuario `vagrant` ubicadas en `/d/Automation_2021/ansiblelab/.vagrant/machines/host1/virtualbox/private_key` y `/d/Automation_2021/ansiblelab/.vagrant/machines/tower/virtualbox/private_key`, con la dirección IP `127.0.0.1`, puerto TCP `2222` o `2200`, según se indique en los mensajes mostrados durante el arranque.
 
 5. Explorar los directorios `/home/vagrant` y `/vagrant` en la VM `host1` sin hacer cambios.
 
