@@ -24,11 +24,11 @@ En las instrucciones se utilizan los siguientes parámetros como ejemplos (susti
 
 2. Abrir **Start** > **Git Bash**.
 
-3. En la interfaz de línea de comandos (CLI) de `bash`, ejecutar los siguientes comandos (cambiar `Nombres Apellidos` y `nombres.apellidos` por los valores que correspondan a su ambiente):
+3. En la interfaz de línea de comandos (CLI) de `bash`, ejecutar los siguientes comandos (cambiar `Nombres Apellidos` y `mailbox@example.com` por los valores que correspondan a su ambiente):
 
 ```bash
 git config --global user.name "Nombres Apellidos"
-git config --global user.email "nombres.apellidos@t-systems.com"
+git config --global user.email "mailbox@example.com"
 git config --global color.ui auto
 ```
 
