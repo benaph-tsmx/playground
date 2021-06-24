@@ -8,7 +8,7 @@
 * Se asume que el sistema operativo donde se instalará el laboratorio es Windows 10 Pro o Enterprise versión 20H2 o más reciente.
 * Activar la visualización de extensiones de nombres y archivos ocultos en **File Explorer**.
 * Crear cuenta de usuario en [GitHub](https://github.com).
-* Para hacer aportacione al repositorio original `karkul/ansiblelab`, hay que solicitar los permisos necesarios al administrador del mismo y configurar nuestro cliente `git` para permitir la conexión segura.
+* Para hacer aportacione al repositorio original `karkul/ansiblelab` en [GitHub](https://github.com/karkul/ansiblelab), hay que solicitar los permisos de colaborador al administrador del mismo y configurar nuestro cliente `git` para permitir la conexión segura.
 
 En las instrucciones se utilizan los siguientes parámetros como ejemplos (sustituir por los valores que correspondan a su ambiente):
 
