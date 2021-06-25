@@ -16,7 +16,7 @@ En las instrucciones se utilizan los siguientes parámetros como ejemplos (susti
 * Directorio de trabajo para el laboratorio: `D:\Automation_2021` (o `/d/Automation_2021/` en `bash`)
 * Nueva ubicación para las máquinas virtuales de VirtualBox: `D:\Automation_2021\VirtualBox_VMs`
 * Nueva ubicación para el directorio de inicio de Vagrant: `D:\Automation_2021\.vagrant.d`
-  
+
 ## Instalar Git
 
 > Git for Windows incluye un ambiente MSYS2/MINGW64 básico con las herramientas más comunes de Linux para Windows, por ejemplo: `bash`, `vim`, `grep`, `less`, `ssh`, `gawk`, etc.
@@ -30,7 +30,6 @@ En las instrucciones se utilizan los siguientes parámetros como ejemplos (susti
 ```bash
 git config --global user.name "Nombres Apellidos"
 git config --global user.email "mailbox@example.com"
-git config --global color.ui auto
 ```
 
 4. Cerrar **Git Bash**.
